@@ -1,5 +1,5 @@
 
-use projec1;
+
 
 select p.category, sum(oi.quantity*oi.item_price) as revenue
 from orders_items oi
