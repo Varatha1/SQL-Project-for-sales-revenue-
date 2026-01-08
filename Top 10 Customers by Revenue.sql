@@ -1,4 +1,4 @@
-use projec1;
+
 
 select c.customer_id, c.name_s, sum(o.total_amount) as revenue
 from customer c
