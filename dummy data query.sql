@@ -1,5 +1,5 @@
 
-use projec1;
+
 
 INSERT INTO customer (customer_id, name_s, email, city, signup_update)
 WITH RECURSIVE seq AS (
