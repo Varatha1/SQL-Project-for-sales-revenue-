@@ -1,5 +1,5 @@
 
-use projec1;
+
 create table customer
 (
 customer_id int primary key,
